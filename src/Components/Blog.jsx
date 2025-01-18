@@ -1,6 +1,6 @@
-import Image1 from "../assets/image 1.png";
-import Image2 from "../assets/image 2.png";
-import Image3 from "../assets/image 3.png";
+import Image1 from "../assets/image1.png";
+import Image2 from "../assets/image2.png";
+import Image3 from "../assets/image3.png";
 import Arrow1 from "../assets/Arrow.png";
 import olivia from "../assets/Olivia.png";
 import phoenix from "../assets/Phoenix.png";
