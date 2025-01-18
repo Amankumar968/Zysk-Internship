@@ -1,5 +1,6 @@
 import RightArrow from "../assets/right-arrow.png";
-import Play from "../assets/Play.png";
+import Play from "../assets/play.png"; // If the actual file name is lowercase.
+
 import MainImage from "../assets/mainimage.png";
 import company1 from "../assets/company1.png";
 import company2 from "../assets/company2.png";
