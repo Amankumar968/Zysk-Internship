@@ -1,0 +1,1 @@
+import vector(1) from './'
